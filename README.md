@@ -1,4 +1,5 @@
 Owen Murphy
+(From personal account as had issues with uni email git with vscode)
 
 
 Following Django Tutorial at https://www.youtube.com/watch?v=PtQiiknWUcI.
@@ -16,7 +17,7 @@ Make sure to commit at these timestamps:
 2:41:45 - Restricted Pages -----
 2:49:00 - User registration -----
 3:01:25 -  Chat Room Messages CRUD -----
-3:27:30 - Activity Feed +++++
-3:43:00 - User Profile Page
+3:27:30 - Activity Feed -----
+3:43:00 - User Profile Page +++++
 3:53:25- Static Files
 4:02:15 - Theme Installation
