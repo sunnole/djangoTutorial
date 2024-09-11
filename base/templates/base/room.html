@@ -51,7 +51,7 @@
 
         {% for user in participants %}
             <div>
-                <p>@{{user.username}}</p>
+                <a href="{% url 'user-profile' user.id %}">@{{user.username}}</a>
             </div>
         {% endfor %}
     </div>
